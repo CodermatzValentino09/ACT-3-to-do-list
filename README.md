@@ -1,4 +1,4 @@
-# 📋 ACT-3 - To‑Do List (Redis)
+# 📋APP To‑Do List (Redis)
 
 Proyecto simple de lista de tareas usando Redis como almacenamiento en memoria.
 
